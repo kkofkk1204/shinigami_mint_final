@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0xb1e381d555f3fbee85813f186089e12693bd186f",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb1e381d555f3fbee85813f186089e12693bd186f",
+  "CONTRACT_ADDRESS": "0xce767af8f1a2fabe8188cfdb6f94b401156e0ec6",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xce767af8f1a2fabe8188cfdb6f94b401156e0ec6",
   "NETWORK": {
     "NAME": "Mumbai Testnet",
     "SYMBOL": "Matic",
     "ID": 80001
   },
-  "NFT_NAME": "kk1204_test_a1",
-  "SYMBOL": "kk1204_test_a1",
+  "NFT_NAME": "kk1204_test_a6",
+  "SYMBOL": "kk1204_test_a6",
   "MAX_SUPPLY": 6666,
   "WEI_COST": 88000000000000000,
   "DISPLAY_COST": 0.088,
